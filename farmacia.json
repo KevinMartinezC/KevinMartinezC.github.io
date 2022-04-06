@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "HIDROFEROL CAJA X 1 CAPSULA",
+    "image": "https://www.farmaciasannicolas.com/Multimedia/GetProductImage?productId=642df9ee-a7b6-4e88-b6b2-529ade295619&multimediaId=4b8f2f47-7261-45b3-b709-e9b22b3f14fa&imageSize=Medium",
+    "description": "Preventivo de la osteoporosis y de la pérdida de densidad mineral ósea. También actúa como complemento al tratamiento farmacológico de la osteoporosis. Está indicado en aquellos pacientes con déficit de vitamina D, como prevención y tratamiento en estos pacientes.",
+    "price": "$15.16"
+  },
+  {
+    "id": "2",
+    "name": "TRIBUNA 200 MG CAJA X 30 CAPSULAS",
+    "image": "https://www.farmaciasannicolas.com/Multimedia/GetProductImage?productId=690b5f10-307f-414a-81ca-dae94c28499a&multimediaId=5205004c-a105-4d0a-8cee-0427a3bc0c30&imageSize=Medium",
+    "description": "Espasmo intestinal. Flatulencia. Diarrea o Estreñimiento. Colon irritable.",
+    "price": "$17"
+  },
+  {
+    "id": "3",
+    "name": "LANCETAS ACCU CHEK SOFTCLIX CAJA X 200",
+    "image": "https://www.farmaciasannicolas.com/Multimedia/GetProductImage?productId=d071e83c-1dd1-4aae-9226-9eb01b67fb77&multimediaId=3099615b-78b0-408a-84b9-4e96f8560d4a&imageSize=Medium",
+    "description": "Se utiliza para realizar una pequeña incisión en la piel y conseguir de esta forma un pequeño volumen de sangre capilar, utilizado habitualmente para analizar diferentes componentes sanguíneos, como puede ser la glucosa, el lactato, la hemoglobina.",
+    "price": "$4.74"
+  },
+  {
+    "id": "4",
+    "name": "SERITRAL 50 MG CAJA X 10 TABLETAS",
+    "image": "https://www.farmaciasannicolas.com/Multimedia/GetProductImage?productId=0f7529e4-6554-4b82-954c-8d7930e50c97&multimediaId=3ba498a6-c0dc-4944-92f5-82d18d886465&imageSize=Medium",
+    "description": "Indicado para depresión y prevención de la reaparición de depresión. Trastorno de ansiedad socialtrastorno por estrés postraumático. Trastorno de angustia. Trastorno obsesivo compulsivo.",
+    "price": "$5.31"
+  },
+  {
+    "id": "5",
+    "name": "BEDOYECTA +G CAJA X 30 TABLETAS",
+    "image": "https://www.farmaciasannicolas.com/Multimedia/GetProductImage?productId=ae5b2367-4bd7-44f6-8d36-aa780eb6eb85&multimediaId=0c926b7b-6971-4f3a-8a4a-0b22b2c9fa67&imageSize=Medium",
+    "description": "Mejora el rendimiento físico y el desempeño día a día, ya que incrementa la resistencia, mejora el estado del sistema inmunológico, combate el estrés biológico y mejora la vitalidad.",
+    "price": "$20.05"
+  },
+  {
+    "id": "6",
+    "name": "NOR-LIPOX CAJA 20MG X 30 TABLETAS",
+    "image": "https://www.farmaciasannicolas.com/Multimedia/GetProductImage?productId=68505f52-9f29-4536-b8f8-b9854fcadc64&multimediaId=64a860b2-a6cf-4be9-8293-f7f835bdbda3&imageSize=Medium",
+    "description": "Se usa para tratar el colesterol alto y para reducir el riesgo de accidente cerebrovascular, ataque cardíaco u otras complicaciones cardíacas en personas con diabetes tipo 2, enfermedad coronaria u otros factores de riesgo,se usa en adultos y niños que tienen al menos 10 años de edad.",
+    "price": "$20.81"
+  },
+  {
+    "id": "7",
+    "name": "MEDIPRIL 10 MG CAJA X 30 COMPRIMIDOS",
+    "image": "https://www.farmaciasannicolas.com/Multimedia/GetProductImage?productId=31f5eab4-409c-4e9d-948d-ad480f37caec&multimediaId=da40aef7-1fc3-439a-87b8-545a5d085954&imageSize=Medium",
+    "description": "Indicado en pacientes mayores de 55 años que tienen alto riesgo de desarrollar enfermedad cardiovascular con una historia de enfermedad de la arteria coronaria.",
+    "price": "$19.72"
+  },
+  {
+    "id": "8",
+    "name": "AFRIN 0.5MG SOLUCION NASAL ADULTOS 15ML",
+    "image": "https://www.farmaciasannicolas.com/Multimedia/GetProductImage?productId=d3bd6ab4-04f4-4c74-9aaa-261e3029c1e3&multimediaId=c941b4ef-6dc1-4f97-917c-4a2e6b7d523a&imageSize=Medium",
+    "description": "Es un descongestivo que alivia la congestión nasal por estrechamiento de los vasos sanguíneos de la nariz. Actúa en pocos minutos y su efecto se mantiene durante horas.",
+    "price": "$7.77"
+  },
+  {
+    "id": "9",
+    "name": "ALERCET 10MG X 10 TABLETAS",
+    "image": "https://www.farmaciasannicolas.com/Multimedia/GetProductImage?productId=1169cdae-9b36-4f06-bae8-ba2f3e4bda89&multimediaId=32f40498-a0fd-498b-99e4-f3223df87f35&imageSize=Medium",
+    "description": "Antihistamínico para el control efectivo y rápido de signos y síntomas asociados a afecciones alérgicas: como rinitis, dermatitis agudas o crónicas; conjuntivitis alérgica, urticaria aguda; como coadyuvante en procesos infecciosos de las vías respiratorias superiores: sinusitis, otitis media, etc. Asma moderada.",
+    "price": "$5.59"
+  },
+  {
+    "id": "10",
+    "name": "AZITROSIL 500MG X 1 TABLETA",
+    "image": "https://www.farmaciasannicolas.com/Multimedia/GetProductImage?productId=e66063e7-cfec-4fdc-a21b-3b25063491eb&multimediaId=af4fb0b1-f57f-4e1f-a68d-d3f7e91bd8e9&imageSize=Medium",
+    "description": "Indicado en bronquitis, faringoamigdalitis, otitis media, uretritis e infecciones de la piel y tejidos blandos no complicadas.",
+    "price": "$3.65"
+  }
+]
